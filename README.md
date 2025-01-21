@@ -21,10 +21,7 @@
  3. إمكانية مشاركة التطبيق مع الأصدقاء 📤
  4. إرسال رسالة للإبلاغ عن أي مشكلة أو لاقتراح أفكار جديدة 💌
 
-![image_2025-01-21_21-04-26](https://github.com/user-attachments/assets/7a559138-379e-4980-b91a-892c069c8859) ![image_2025-01-21_21-05-06](https://github.com/user-attachments/assets/9942a048-7f01-4ce9-bf4f-8502f4a6ac6a)
-
-
-
+![image](https://github.com/user-attachments/assets/fda061e8-51b7-46f3-b7a9-e45d4e810357)
 
 https://github.com/user-attachments/assets/33f6aa62-0a50-4180-89eb-1005a59d83f9
 
