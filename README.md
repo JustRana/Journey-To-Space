@@ -26,8 +26,9 @@
   2. Access information about the app ℹ️  
   3. Share the app with friends 📤  
   4. Send a message to report issues or suggest new ideas 💌
-  # Demo
+  # Screenshots
 ![image](https://github.com/user-attachments/assets/fda061e8-51b7-46f3-b7a9-e45d4e810357)
 
+  # Demo
 https://github.com/user-attachments/assets/33f6aa62-0a50-4180-89eb-1005a59d83f9
 
